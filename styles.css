@@ -1079,7 +1079,8 @@ input[type="submit"]:focus {
     font-size: 12px;
     line-height: 18px;
     color: #898989;
-    font-style: italic
+    font-style: italic;
+    text-align: left
 }
 
 .order-service .btn-order {
